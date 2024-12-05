@@ -1,5 +1,20 @@
 {
     "cSpell.words": [
-        "dbdiagram"
+        "createdb",
+        "dbdiagram",
+        "dbeaver",
+        "DBTX",
+        "dropdb",
+        "Gorm",
+        "kyleconroy",
+        "migratedown",
+        "migrateup",
+        "pgadmin",
+        "psql",
+        "simplebank",
+        "sqlc",
+        "sqlx",
+        "sslmode",
+        "stretchr"
     ]
 }
